@@ -1,4 +1,4 @@
 export const environment = {
 	production: true,
-	animal: '🐔'
+	animal: 'QA_QA'
 };
